@@ -1,8 +1,7 @@
 <p align="center">
-  <!-- Header Banner: Ensure your image file is pushed to assets/profile-banner.png -->
-  <img src="assets/profile-banner.png" width="100%" alt="Header Banner" onerror="this.style.display='none'">
+  <img src="<img width="735" height="386" alt="banner" src="https://github.com/user-attachments/assets/7a074ecd-631f-4853-af0e-1fa8db9bf73e" />
+" width="100%" alt="Space Cat Banner">
 </p>
-
 <h1 align="center">Hey 👋, I'm Arnav</h1>
 
 <p align="center">
