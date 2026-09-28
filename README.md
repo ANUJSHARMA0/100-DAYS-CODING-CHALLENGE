@@ -1,19 +1,12 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Header Banner">
+  <!-- Ensure assets/profile-banner.png exists in your repo, or replace this src with a direct web image link -->
+  <img src="assets/profile-banner.png" width="100%" alt="Header Banner" onerror="this.style.display='none'">
 </p>
 
 <h1 align="center">Hey 👋, I'm Arnav</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+%E2%80%A2+Programmer+%E2%80%A2+Builder;Learning+%E2%86%92+Building+%E2%86%92+Debugging;Exploring+Software+Development" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <b>Student • Programmer • Builder</b>
-</p>
-
-<p align="center">
-  <i>Learning → Building → Breaking → Debugging → Improving</i>
 </p>
 
 ---
@@ -45,8 +38,8 @@ I'm Arnav, a student exploring software development and building my programming 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUJSHARMA0&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ANUJSHARMA0&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 ---
