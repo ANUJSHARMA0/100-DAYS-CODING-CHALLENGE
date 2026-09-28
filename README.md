@@ -36,18 +36,22 @@ I'm Arnav, a student exploring software development and building my programming 
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Readme Streak Stats: This is the definitive reliable card -->
+  <!-- Streak Stats (Reliable Heroku Endpoint) -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ANUJSHARMA0&theme=tokyonight&hide_border=true&ring=36BCF7" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Base Stats: Using a reliable proxy for higher uptime -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight&hide_border=true&icon_color=36BCF7" height="170" alt="GitHub Stats" />
+  <!-- Alternative High-Availability Stats API -->
+  <img src="https://github-readme-stats-api.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight&hide_border=true&icon_color=36BCF7" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=ANUJSHARMA0&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
+---
 ---
 
 ## 🌐 Connect With Me
