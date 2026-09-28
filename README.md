@@ -1,7 +1,6 @@
 <p align="center">
-  <!-- Use a reliable web URL for the animated banner. 
-       This replaces the local 'assets/profile-banner.png' path. -->
-  <img src="https://example.com/arnav-digital-hands.gif" width="100%" alt="Arnav - Digital Hands Animation">
+  <!-- Header Banner: Ensure your image file is pushed to assets/profile-banner.png -->
+  <img src="assets/profile-banner.png" width="100%" alt="Header Banner" onerror="this.style.display='none'">
 </p>
 
 <h1 align="center">Hey 👋, I'm Arnav</h1>
@@ -36,22 +35,20 @@ I'm Arnav, a student exploring software development and building my programming 
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Streak Stats (Reliable Heroku Endpoint) -->
+  <!-- GitHub Streak Card (Working) -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ANUJSHARMA0&theme=tokyonight&hide_border=true&ring=36BCF7" height="170" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Alternative High-Availability Stats API -->
-  <img src="https://github-readme-stats-api.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight&hide_border=true&icon_color=36BCF7" height="170" alt="GitHub Stats" />
+  <!-- Most Used Languages Card (Working) -->
   <img src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=ANUJSHARMA0&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <!-- Ultra-reliable Stats Replacement: GitHub Stats Card via GitHub Profile Summary API -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANUJSHARMA0&theme=tokyonight" height="170" alt="GitHub Profile Details" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
