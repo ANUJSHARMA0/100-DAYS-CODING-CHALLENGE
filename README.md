@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="Header Banner" onerror="this.style.display='none'">
+  <!-- Use a reliable web URL for the animated banner. 
+       This replaces the local 'assets/profile-banner.png' path. -->
+  <img src="https://example.com/arnav-digital-hands.gif" width="100%" alt="Arnav - Digital Hands Animation">
 </p>
 
 <h1 align="center">Hey 👋, I'm Arnav</h1>
@@ -37,14 +39,13 @@ I'm Arnav, a student exploring software development and building my programming 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Streak Stats (Working as seen in your screenshot) -->
+  <!-- GitHub Readme Streak Stats: This is the definitive reliable card -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ANUJSHARMA0&theme=tokyonight&hide_border=true&ring=36BCF7" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Reliable alternative endpoint for GitHub Stats -->
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=ANUJSHARMA0&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <!-- Base Stats: Using a reliable proxy for higher uptime -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight&hide_border=true&icon_color=36BCF7" height="170" alt="GitHub Stats" />
 </p>
 
 ---
