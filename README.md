@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="<img width="735" height="386" alt="banner" src="https://github.com/user-attachments/assets/fd53e472-380c-4347-b02d-9fd482a8d8ac" />
-" width="100%" alt="Space Cat Banner">
+  <img src="https://github.com/user-attachments/assets/fd53e472-380c-4347-b02d-9fd482a8d8ac" width="100%" alt="Space Cat Banner">
 </p>
+
 <h1 align="center">Hey 👋, I'm Arnav</h1>
 
 <p align="center">
@@ -37,14 +37,14 @@ I'm Arnav, a student exploring software development and building my programming 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Streak Card (Working) -->
+  <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ANUJSHARMA0&theme=tokyonight&hide_border=true&ring=36BCF7" height="170" alt="GitHub Streak" />
-  <!-- Most Used Languages Card (Working) -->
+  <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=ANUJSHARMA0&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Ultra-reliable Stats Replacement: GitHub Stats Card via GitHub Profile Summary API -->
+  <!-- GitHub Profile Details Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANUJSHARMA0&theme=tokyonight" height="170" alt="GitHub Profile Details" />
 </p>
 
