@@ -1,56 +1,64 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%">
+  <img src="./assets/profile-banner.png" width="100%" alt="Header Banner">
 </p>
 
 <h1 align="center">Hey 👋, I'm Arnav</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+%E2%80%A2+Programmer+%E2%80%A2+Builder;Learning+%E2%86%92+Building+%E2%86%92+Debugging;Exploring+Software+Development" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <b>Student • Programmer • Builder</b>
 </p>
 
 <p align="center">
-  Learning → Building → Breaking → Debugging → Improving
+  <i>Learning → Building → Breaking → Debugging → Improving</i>
 </p>
+
+---
 
 ## 🧠 About Me
 
-I'm Arnav, a student exploring software development
-and building my programming foundation one project at a time.
+I'm Arnav, a student exploring software development and building my programming foundation one project at a time.
 
-- 💻 Learning C & C++
-- 🐍 Exploring Python
-- 🧩 Improving problem-solving
-- 🔧 Learning Git & GitHub
-- 🚀 Building projects instead of only following tutorials
-- 🌱 Exploring technology through hands-on work
-- 
-<h2>💻 Tech Stack</h2>
+- 💻 **Learning:** C & C++
+- 🐍 **Exploring:** Python
+- 🧩 **Focusing on:** Problem-solving & DSA
+- 🔧 **Tools:** Git & GitHub
+- 🚀 **Approach:** Building real projects over tutorial hell
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</p>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUJSHARMA0&layout=compact&theme=tokyonight" />
+## 💻 Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUJSHARMA0&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C" alt="C"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" alt="C++"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" alt="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" alt="GitHub"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-
-<a href="in/arnav-vishwakarma-43b1a12b6">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/ANUJSHARMA0">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUJSHARMA0&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Learning+C+%26+C%2B%2B;Building+Projects;Exploring+Software+Development" />
+---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arnav-vishwakarma-43b1a12b6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ANUJSHARMA0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
