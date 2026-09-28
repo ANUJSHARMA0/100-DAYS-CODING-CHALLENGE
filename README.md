@@ -1,6 +1,7 @@
 <p align="center">
-  <!-- Ensure assets/profile-banner.png exists in your repo, or replace this src with a direct web image link -->
-  <img src="assets/profile-banner.png" width="100%" alt="Header Banner" onerror="this.style.display='none'">
+  <!-- Use a reliable web URL for the animated banner. 
+       This replaces the local 'assets/profile-banner.png' path. -->
+  <img src="https://example.com/arnav-digital-hands.gif" width="100%" alt="Arnav - Digital Hands Animation">
 </p>
 
 <h1 align="center">Hey 👋, I'm Arnav</h1>
@@ -38,8 +39,13 @@ I'm Arnav, a student exploring software development and building my programming 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ANUJSHARMA0&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+  <!-- GitHub Readme Streak Stats: This is the definitive reliable card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ANUJSHARMA0&theme=tokyonight&hide_border=true&ring=36BCF7" height="170" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Base Stats: Using a reliable proxy for higher uptime -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ANUJSHARMA0&show_icons=true&theme=tokyonight&hide_border=true&icon_color=36BCF7" height="170" alt="GitHub Stats" />
 </p>
 
 ---
