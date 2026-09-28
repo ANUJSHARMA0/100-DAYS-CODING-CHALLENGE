@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fd53e472-380c-4347-b02d-9fd482a8d8ac" width="75%" alt="Space Cat Banner">
+  <img src="https://github.com/user-attachments/assets/fd53e472-380c-4347-b02d-9fd482a8d8ac" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 8px;" alt="Space Cat Banner">
 </p>
 
 <h1 align="center">Hey 👋, I'm Arnav</h1>
@@ -22,30 +22,29 @@ I'm Arnav, a student exploring software development and building my programming 
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C" alt="C"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" alt="C++"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" alt="Python"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" alt="Git"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="45" title="GitHub" alt="GitHub" style="filter: invert(1);"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Current Projects
+
+- 📌 **[100-Days-Coding-Challenge](https://github.com/ANUJSHARMA0/100-DAYS-CODING-CHALLENGE):** Tracking daily progress in DSA and C/C++ problem-solving.
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ANUJSHARMA0&theme=tokyonight&hide_border=true&ring=36BCF7" height="170" alt="GitHub Streak" />
-  <!-- Most Used Languages Card -->
   <img src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=ANUJSHARMA0&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- GitHub Profile Details Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANUJSHARMA0&theme=tokyonight" height="170" alt="GitHub Profile Details" />
 </p>
 
 ---
