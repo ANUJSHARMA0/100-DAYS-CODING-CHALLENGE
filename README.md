@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="735" height="386" alt="banner" src="https://github.com/user-attachments/assets/7a074ecd-631f-4853-af0e-1fa8db9bf73e" />
+  <img src="<img width="735" height="386" alt="banner" src="https://github.com/user-attachments/assets/fd53e472-380c-4347-b02d-9fd482a8d8ac" />
 " width="100%" alt="Space Cat Banner">
 </p>
 <h1 align="center">Hey 👋, I'm Arnav</h1>
