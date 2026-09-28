@@ -54,12 +54,3 @@ and building my programming foundation one project at a time.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Learning+C+%26+C%2B%2B;Building+Projects;Exploring+Software+Development" />
 
-ANUJSHARMA0/
-│
-├── README.md
-│
-└── assets/
-    ├── banner.png
-    ├── coding.gif
-    ├── project1.png
-    └── project2.png
