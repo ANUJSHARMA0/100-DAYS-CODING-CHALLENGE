@@ -1,0 +1,55 @@
+{
+  "name": "zenith-productivity",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An elite, tactile productivity and task management app built with React, TypeScript, and a bespoke Kinetic Obsidian design system. Runs on web and Android via Capacitor.",
+  "author": "Arnav",
+  "license": "MIT",
+  "keywords": [
+    "todo",
+    "productivity",
+    "task-manager",
+    "react",
+    "typescript",
+    "vite",
+    "capacitor",
+    "android",
+    "pwa",
+    "glassmorphism"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "cap:sync": "cap sync android",
+    "cap:build": "npm run build && cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/local-notifications": "^6.1.1",
+    "@capacitor/preferences": "^6.0.3",
+    "@capacitor/splash-screen": "^6.0.3",
+    "@capacitor/status-bar": "^6.0.2",
+    "canvas-confetti": "^1.9.4",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.16.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.2",
+    "vite": "^5.4.11"
+  }
+}
